@@ -1,0 +1,17 @@
+/bin/# Eclipse
+.settings/
+.project
+.classpath
+
+# Pastas geradas
+bin/
+build/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos ocultos do sistema
+.DS_Store
+Thumbs.db

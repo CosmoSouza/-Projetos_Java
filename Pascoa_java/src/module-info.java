@@ -1,0 +1,2 @@
+module Pascoa_java {
+}
