@@ -1,0 +1,2 @@
+module Medindo_Areas {
+}
