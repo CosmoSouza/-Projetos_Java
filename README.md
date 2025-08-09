@@ -1,12 +1,12 @@
 # Projetos Java
 
-Este repositório reúne diversos exercícios e projetos desenvolvidos em Java como parte dos meus estudos em Análise e Desenvolvimento de Sistemas na Unisociesc.
+Este repositório reúne diversos exercícios e projetos desenvolvidos em **Java** como parte dos meus estudos em **Análise e Desenvolvimento de Sistemas** na **Unisociesc**.
 
-O objetivo é praticar lógica de programação, estrutura de dados, orientação a objetos e o uso do Java com Eclipse.
+O objetivo é praticar lógica de programação, estrutura de dados, orientação a objetos e o uso do Java tanto no **Eclipse** quanto no **IntelliJ IDEA**.
 
 ---
 
-## 📁 Projetos incluídos
+## 📁 Projetos no Eclipse
 
 - **Aplicação** – Estrutura base de um projeto Java
 - **Curso, Curso_Java, Curso_Programacao, curso1** – Projetos de estudo e experimentação
@@ -36,8 +36,15 @@ O objetivo é praticar lógica de programação, estrutura de dados, orientaçã
 
 ---
 
-## 🧠 Tecnologias utilizadas
+## 📁 Projetos no IntelliJ IDEA
+
+- **Hello** – Programa simples que solicita nome e idade do usuário e exibe uma mensagem personalizada.
+
+---
+
+## 🛠 Tecnologias utilizadas
 
 - Java (JDK 17+)
 - Eclipse IDE
-
+- IntelliJ IDEA
+- Git & GitHub
