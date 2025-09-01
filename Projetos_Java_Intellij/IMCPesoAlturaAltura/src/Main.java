@@ -8,27 +8,26 @@ public class Main {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Digite sua altura: ");
+        System.out.println("Digite sua Altura:");
         var altura = sc.nextDouble();
 
-        System.out.println("Digite seu Peso: ");
+        System.out.println("Digite seu peso:");
         var peso = sc.nextDouble();
 
-        var imc = peso/ (altura * altura);
-        System.out.printf("Seu IMC e: %s \n", imc);
+        var imc = peso/(altura * altura);
 
-        if (imc <= 18.5){
-            System.out.println("Esta Abaixo do peso");
+        if (imc <= 18.6){
+            System.out.println("Abaixo do peso!");
         } else if (imc >= 18.6 && imc <= 24.9) {
-            System.out.println("Peso igual!");
-        } else if (imc >= 25.0 && imc <= 29.9) {
-            System.out.println("Levemente acima do peso!");
-        } else if (imc >= 30.0 && imc <= 34.9) {
+            System.out.println("Peso Ideal!");
+        } else if (imc >= 30.0 && imc <=34.9) {
             System.out.println("Obesidade Grau |");
-        } else if (imc >= 35.0 && imc <= 39.9) {
-            System.out.println("Obesidade Grau || (Severa)");
-        } else if (imc >= 40.0) {
-            System.out.println("Obesidade ||| (Mórbida");
+        } else if (imc >= 35.0 && imc <=39.9) {
+            System.out.println("Obesidade|| (Severa)");
+        } else if (imc >= 40.0 ) {
+            System.out.println("Obesidade ||| (Morbida)");
+
         }
-     }
+        sc.close();
+    }
     }
