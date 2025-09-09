@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binarios/Binarios.iml" filepath="$PROJECT_DIR$/Binarios/Binarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculoQuadado/CalculoQuadado.iml" filepath="$PROJECT_DIR$/CalculoQuadado/CalculoQuadado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio if Else/Exercicio if Else.iml" filepath="$PROJECT_DIR$/Exercicio if Else/Exercicio if Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMCPesoAlturaAltura/IMCPesoAlturaAltura.iml" filepath="$PROJECT_DIR$/IMCPesoAlturaAltura/IMCPesoAlturaAltura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdadeCalculo/IdadeCalculo.iml" filepath="$PROJECT_DIR$/IdadeCalculo/IdadeCalculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NomeAnoNascimento/NomeAnoNascimento.iml" filepath="$PROJECT_DIR$/NomeAnoNascimento/NomeAnoNascimento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumerosParesImpares/NumerosParesImpares.iml" filepath="$PROJECT_DIR$/NumerosParesImpares/NumerosParesImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PetShop/PetShop.iml" filepath="$PROJECT_DIR$/PetShop/PetShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Porcentagem_Igual_Zero/Porcentagem_Igual_Zero.iml" filepath="$PROJECT_DIR$/Porcentagem_Igual_Zero/Porcentagem_Igual_Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Projetos_Java_Intellij.iml" filepath="$PROJECT_DIR$/.idea/Projetos_Java_Intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabuada/Tabuada.iml" filepath="$PROJECT_DIR$/Tabuada/Tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransacaoFinanceira/TransacaoFinanceira.iml" filepath="$PROJECT_DIR$/TransacaoFinanceira/TransacaoFinanceira.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValorDaArea/ValorDaArea.iml" filepath="$PROJECT_DIR$/ValorDaArea/ValorDaArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for/for.iml" filepath="$PROJECT_DIR$/for/for.iml" />
+      <module fileurl="file://$PROJECT_DIR$/get-started/get-started.iml" filepath="$PROJECT_DIR$/get-started/get-started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/while e do while/while e do while.iml" filepath="$PROJECT_DIR$/while e do while/while e do while.iml" />
+    </modules>
+  </component>
+</project>

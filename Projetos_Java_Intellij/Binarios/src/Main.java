@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        var value1 = 6;
+        var value1 = 8;
         var binary1 = Integer.toBinaryString(value1);
         System.out.printf("Primeiro numero da operacao %s (representacao binaria %s)\n", value1, binary1);
        /* var value2 = 2;
